@@ -1,5 +1,5 @@
 ﻿using System.Globalization;
-Console.WriteLine("TESTE MÉTODOS");
+Console.WriteLine("TESTE MÉTODOS .Net");
 
 var aluno = new Aluno();
 

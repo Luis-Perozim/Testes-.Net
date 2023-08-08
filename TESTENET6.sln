@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesEXE", "Interfaces
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agregação", "Agregação\Agregação.csproj", "{0F715138-1DBF-443A-8B22-5F95D639764D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{A66FE69C-7854-457E-B58D-31CFDF108794}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{A66FE69C-7854-457E-B58D-31CFDF108794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryEXE", "DictionaryEXE\DictionaryEXE.csproj", "{AE5E4738-137F-4054-A5CA-8CD8D3509F03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{A66FE69C-7854-457E-B58D-31CFDF108794}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A66FE69C-7854-457E-B58D-31CFDF108794}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A66FE69C-7854-457E-B58D-31CFDF108794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5E4738-137F-4054-A5CA-8CD8D3509F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5E4738-137F-4054-A5CA-8CD8D3509F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5E4738-137F-4054-A5CA-8CD8D3509F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5E4738-137F-4054-A5CA-8CD8D3509F03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

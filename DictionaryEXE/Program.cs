@@ -32,8 +32,24 @@ do
 
 }  
 while (true);
+ExibirColecao(alunos);
+
+
+Console.WriteLine("\nInforme o código de Aluno para remover");
+int cod = Convert.ToInt32(Console.ReadLine());
+if(alunos.ContainsKey(cod))
+{
+    alunos.Remove(cod);
+    Console.WriteLine("\nAluno removido com sucesso");
+}
+else 
+{ 
+    Console.WriteLine("\nCódigo não encontrado");
+}
 
 ExibirColecao(alunos);
+
+
 
 Console.ReadKey();
 

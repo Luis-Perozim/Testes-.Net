@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryEXE", "DictionaryEXE\DictionaryEXE.csproj", "{AE5E4738-137F-4054-A5CA-8CD8D3509F03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tratamento de Execeções", "Tratamento de Execeções\Tratamento de Execeções.csproj", "{1AE73C1E-149F-4E52-A662-B24EE5847210}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tratamento de Execeções", "Tratamento de Execeções\Tratamento de Execeções.csproj", "{1AE73C1E-149F-4E52-A662-B24EE5847210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{C823F4ED-ABF9-4677-9CA1-2BC3F71DE718}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{1AE73C1E-149F-4E52-A662-B24EE5847210}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AE73C1E-149F-4E52-A662-B24EE5847210}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AE73C1E-149F-4E52-A662-B24EE5847210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C823F4ED-ABF9-4677-9CA1-2BC3F71DE718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C823F4ED-ABF9-4677-9CA1-2BC3F71DE718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C823F4ED-ABF9-4677-9CA1-2BC3F71DE718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C823F4ED-ABF9-4677-9CA1-2BC3F71DE718}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

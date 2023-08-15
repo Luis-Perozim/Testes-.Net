@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryEXE", "Dictionary
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tratamento de Execeções", "Tratamento de Execeções\Tratamento de Execeções.csproj", "{1AE73C1E-149F-4E52-A662-B24EE5847210}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{C823F4ED-ABF9-4677-9CA1-2BC3F71DE718}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate", "Delegate\Delegate.csproj", "{C823F4ED-ABF9-4677-9CA1-2BC3F71DE718}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exemplo File", "Exempleo File\Exemplo File.csproj", "{61FE6EFE-9AF0-4AF9-B57E-985A11971F56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{C823F4ED-ABF9-4677-9CA1-2BC3F71DE718}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C823F4ED-ABF9-4677-9CA1-2BC3F71DE718}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C823F4ED-ABF9-4677-9CA1-2BC3F71DE718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61FE6EFE-9AF0-4AF9-B57E-985A11971F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61FE6EFE-9AF0-4AF9-B57E-985A11971F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61FE6EFE-9AF0-4AF9-B57E-985A11971F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61FE6EFE-9AF0-4AF9-B57E-985A11971F56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

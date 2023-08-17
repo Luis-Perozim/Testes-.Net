@@ -33,9 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate", "Delegate\Delega
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exemplo File", "Exempleo File\Exemplo File.csproj", "{61FE6EFE-9AF0-4AF9-B57E-985A11971F56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStream e StreamReader", "FileStream e StreamReader\FileStream e StreamReader.csproj", "{FA40FC08-0C4C-49DB-822C-67C50F35E0E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileStream e StreamReader", "FileStream e StreamReader\FileStream e StreamReader.csproj", "{FA40FC08-0C4C-49DB-822C-67C50F35E0E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio Stream", "Exercicio Stream\Exercicio Stream.csproj", "{ACDC49BD-9AF7-4D5B-95E3-9C3B9C13F5B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio Stream", "Exercicio Stream\Exercicio Stream.csproj", "{ACDC49BD-9AF7-4D5B-95E3-9C3B9C13F5B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercício Assíncrona", "Exercício Assíncrona\Exercício Assíncrona.csproj", "{6FF59714-93AE-499E-A6DF-783D396C6FCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{ACDC49BD-9AF7-4D5B-95E3-9C3B9C13F5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACDC49BD-9AF7-4D5B-95E3-9C3B9C13F5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACDC49BD-9AF7-4D5B-95E3-9C3B9C13F5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF59714-93AE-499E-A6DF-783D396C6FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF59714-93AE-499E-A6DF-783D396C6FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF59714-93AE-499E-A6DF-783D396C6FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF59714-93AE-499E-A6DF-783D396C6FCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
